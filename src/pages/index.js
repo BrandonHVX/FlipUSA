@@ -20,7 +20,7 @@ import CallToActionSix from "../components/CallToActionSix";
 import SubscribeOne from "../components/SubscribeOne";
 import VideoThree from "../components/VideoThree";
 const HomePage = () => (
-  <Layout pageTitle="Kipso - React Next Online Education Learning & LMS Template">
+  <Layout pageTitle="Flip USA - Professional Real Estate Platform ">
     <Topbar />
     <NavOne />
     <SliderOne />
